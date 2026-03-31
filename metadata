@@ -1,0 +1,23 @@
+[
+  {
+    "Outputfile": "restaurant_orders.csv",
+    "Outputcontainer": "output",
+    "Outputdirectory": "foreach",
+    "sqlschema": "dbo",
+    "sqltablename": "restaurant_orders"
+  },
+  {
+    "Outputfile": "Balaji Fast Food Sales.csv",
+    "Outputcontainer": "output",
+    "Outputdirectory": "foreach",
+    "sqlschema": "dbo",
+    "sqltablename": "Balaji Fast Food Sales"
+  },
+  {
+    "Outputfile": "food_ordering.csv",
+    "Outputcontainer": "output",
+    "Outputdirectory": "foreach",
+    "sqlschema": "dbo",
+    "sqltablename": "food_ordering"
+  }
+]
