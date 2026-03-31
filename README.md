@@ -88,6 +88,7 @@ Reduced development effort for future data loads
 
 
 **Learnings**
+
 Hands-on experience with Azure Data Factory
 Implemented dynamic pipelines using parameters
 Learned metadata-driven design approach
