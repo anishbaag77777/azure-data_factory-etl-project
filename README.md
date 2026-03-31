@@ -17,4 +17,4 @@ Azure Data Lake → Azure Data Factory → SQL Server
                      →
                Copy Data Activity
 
-![Architecture](images/architecture.png)
+![Architecture](Data migration from Azure to SQL Server.png)
